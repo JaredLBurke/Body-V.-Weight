@@ -1,2 +1,2 @@
 # Body-V.-Weight
-Linear Regression Practice
+Practice implementing linear regression in Python.
